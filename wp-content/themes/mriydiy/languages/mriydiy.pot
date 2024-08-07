@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mriydiy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 14:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: mriydiy"
+
+msgid "Нічого не знайдено."
+msgstr ""
+
+msgid "Документи"
+msgstr ""
+
+msgid "Відео"
+msgstr ""
+
+msgid "Новини та події"
+msgstr ""
+
+msgid "Наші заклади"
+msgstr ""
+
+msgid "Команда"
+msgstr ""
+
+msgid "Записатися"
+msgstr ""
+
+msgid "Далі"
+msgstr ""
+
+msgid "Фільтри"
+msgstr ""
+
+msgid "Переглянути на карті"
+msgstr ""
+
+msgid "Усі матеріали"
+msgstr ""
+
+msgid "Більше"
+msgstr ""
+
+msgid "Відповіді на запитання"
+msgstr ""
+
+msgid "Написати нам"
+msgstr ""
+
+msgid "Замовити дзвінок"
+msgstr ""
+
+msgid "Школи"
+msgstr ""
+
+msgid "Підрозділи"
+msgstr ""
+
+msgid "Табори"
+msgstr ""
+
+msgid "Клуби"
+msgstr ""
+
+msgid "Викладач"
+msgstr ""
+
+msgid "Вартість"
+msgstr ""
+
+msgid "Розклад"
+msgstr ""
+
+msgid "Дізнатися більше"
+msgstr ""
+
+msgid "день"
+msgstr ""
+
+msgid "Детальніше"
+msgstr ""
+
+msgid "днів"
+msgstr ""
+
+msgid "годин"
+msgstr ""
+
+msgid "хвилин"
+msgstr ""
+
+msgid "ДЛЯ КОГО"
+msgstr ""
+
+msgid "ВАРТІСТЬ ЗМІНИ"
+msgstr ""
+
+msgid "КОЛИ"
+msgstr ""
+
+msgid "з"
+msgstr ""
+
+msgid "до"
+msgstr ""
+
+msgid "січня"
+msgstr ""
+
+msgid "лютого"
+msgstr ""
+
+msgid "березня"
+msgstr ""
+
+msgid "квітня"
+msgstr ""
+
+msgid "травня"
+msgstr ""
+
+msgid "червня"
+msgstr ""
+
+msgid "липня"
+msgstr ""
+
+msgid "серпня"
+msgstr ""
+
+msgid "вересня"
+msgstr ""
+
+msgid "жовтня"
+msgstr ""
+
+msgid "листопада"
+msgstr ""
+
+msgid "грудня"
+msgstr ""
+
+msgid "Ваше імʼя"
+msgstr ""
+
+msgid "Телефон"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Скільки років вашій дитині?"
+msgstr ""
+
+msgid "Надіслати"
+msgstr ""
+
+msgid "Зачекайте"
+msgstr ""
+
+msgid "Завантажити презентацію про школу"
+msgstr ""
+
+msgid "помилка заповнення"
+msgstr ""
+
+msgid "Оберіть табір"
+msgstr ""
+
+msgid "Ваше запитання"
+msgstr ""
+
+msgid "Підписатися"
+msgstr ""
+
+msgid "ВАРТІСТЬ"
+msgstr ""
+
+msgid "ВАМ МОЖЕ БУТИ ЦІКАВО"
+msgstr ""
+
+msgid "Професійні клуби"
+msgstr ""
+
+msgid "Оберіть клуб"
+msgstr ""
+
+msgid "Заклади"
+msgstr ""
+
+msgid "Оберіть місто"
+msgstr ""
+
+msgid "Напрямок"
+msgstr ""
+
+msgid "Вік"
+msgstr ""
+
+msgid "Місто"
+msgstr ""
+
+msgid "Оплатити"
+msgstr ""
+
+msgid "ЛОКАЦІЯ"
+msgstr ""
+
+msgid "Концепція"
+msgstr ""
+
+msgid "Новини та події MRIYDIY"
+msgstr ""
+
+msgid "Опубліковано"
+msgstr ""
+
+msgid "Сторінка"
+msgstr ""
+
+msgid "Дякуємо! Ваша підписка оформлена."
+msgstr ""
+
+msgid "Політика конфіденційності"
+msgstr ""
+
+msgid "Прийняти"
+msgstr ""
+
+msgid "Імʼя вашої дитини"
+msgstr ""
+
+msgid "Напишіть відгук"
+msgstr ""
+
+msgid "Залишити відгук"
+msgstr ""
+
+msgid "Головна"
+msgstr ""

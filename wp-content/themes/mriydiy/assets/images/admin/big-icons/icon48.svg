@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Шар_1" data-name="Шар 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa0078;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ffbe00;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="m7.27,1.5h2.96c.56,0,1.01.45,1.01,1.01v9.99c0,.56-.45,1.01-1.01,1.01H2.59c-.56,0-1.01-.45-1.01-1.01v-5.3C1.58,4.05,4.13,1.5,7.27,1.5Z" transform="translate(12.82 15) rotate(-180)"/>
+  <rect class="cls-2" x="3.1" y="2.68" width="6.63" height=".94" rx=".39" ry=".39"/>
+  <rect class="cls-2" x="3.1" y="4.57" width="6.63" height=".94" rx=".39" ry=".39"/>
+  <rect class="cls-2" x="3.1" y="6.46" width="6.63" height=".94" rx=".39" ry=".39"/>
+  <g>
+    <rect class="cls-1" x="9.15" y="1.86" width="1.91" height="10" rx=".47" ry=".47" transform="translate(5.25 -4.35) rotate(32.39)"/>
+    <path class="cls-1" d="m6.19,11.2h1.39c.14,0,.26.12.26.26v.25c0,.53-.43.96-.96.96h0c-.52,0-.94-.42-.94-.94v-.27c0-.14.12-.26.26-.26Z" transform="translate(7.46 -1.83) rotate(32.39)"/>
+  </g>
+</svg>

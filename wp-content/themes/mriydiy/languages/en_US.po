@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mriydiy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-27 15:27+0000\n"
+"PO-Revision-Date: 2024-07-31 14:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: mriydiy"
+
+msgid "E-mail"
+msgstr "E-MAIL"
+
+msgid "Імʼя вашої дитини"
+msgstr ""
+
+msgid "Більше"
+msgstr "more"
+
+msgid "ВАМ МОЖЕ БУТИ ЦІКАВО"
+msgstr "YOU MAY BE INTERESTED"
+
+msgid "ВАРТІСТЬ"
+msgstr "PRISE"
+
+msgid "ВАРТІСТЬ ЗМІНИ"
+msgstr ""
+
+msgid "Вартість"
+msgstr "Price"
+
+msgid "Ваше запитання"
+msgstr "Your question"
+
+msgid "Ваше імʼя"
+msgstr ""
+"NAME\n"
+
+msgid "Викладач"
+msgstr ""
+
+msgid "Відео"
+msgstr "Video"
+
+msgid "Відповіді на запитання"
+msgstr "Answers to questions"
+
+msgid "Вік"
+msgstr "Age"
+
+msgid "Головна"
+msgstr ""
+
+msgid "ДЛЯ КОГО"
+msgstr ""
+
+msgid "Далі"
+msgstr "Next"
+
+msgid "Детальніше"
+msgstr ""
+
+msgid "Документи"
+msgstr "Documents"
+
+msgid "Дякуємо! Ваша підписка оформлена."
+msgstr ""
+
+msgid "Дізнатися більше"
+msgstr ""
+
+msgid "Завантажити презентацію про школу"
+msgstr ""
+
+msgid "Заклади"
+msgstr ""
+
+msgid "Залишити відгук"
+msgstr ""
+
+msgid "Замовити дзвінок"
+msgstr "Contact me"
+
+msgid "Записатися"
+msgstr "REGISTER"
+
+msgid "Зачекайте"
+msgstr ""
+
+msgid "КОЛИ"
+msgstr ""
+
+msgid "Клуби"
+msgstr ""
+
+msgid "Команда"
+msgstr ""
+
+msgid "Концепція"
+msgstr ""
+
+msgid "ЛОКАЦІЯ"
+msgstr ""
+
+msgid "Місто"
+msgstr ""
+
+msgid "Надіслати"
+msgstr "REGISTER"
+
+msgid "Написати нам"
+msgstr ""
+
+msgid "Напишіть відгук"
+msgstr ""
+
+msgid "Напрямок"
+msgstr ""
+
+msgid "Наші заклади"
+msgstr ""
+
+msgid "Новини та події"
+msgstr ""
+
+msgid "Новини та події MRIYDIY"
+msgstr "MRIYDIY news and events"
+
+msgid "Нічого не знайдено."
+msgstr ""
+
+msgid "Оберіть клуб"
+msgstr ""
+
+msgid "Оберіть місто"
+msgstr ""
+
+msgid "Оберіть табір"
+msgstr ""
+
+msgid "Оплатити"
+msgstr ""
+
+msgid "Опубліковано"
+msgstr "Published"
+
+msgid "Переглянути на карті"
+msgstr ""
+
+msgid "Політика конфіденційності"
+msgstr ""
+
+msgid "Прийняти"
+msgstr ""
+
+msgid "Професійні клуби"
+msgstr ""
+
+msgid "Підписатися"
+msgstr ""
+
+msgid "Підрозділи"
+msgstr ""
+
+msgid "Розклад"
+msgstr ""
+
+msgid "Скільки років вашій дитині?"
+msgstr "YOUR CHILD'S AGE"
+
+msgid "Сторінка"
+msgstr "Page"
+
+msgid "Табори"
+msgstr "Camps"
+
+msgid "Телефон"
+msgstr "PHONE"
+
+msgid "Усі матеріали"
+msgstr ""
+
+msgid "Фільтри"
+msgstr ""
+
+msgid "Школи"
+msgstr ""
+
+msgid "березня"
+msgstr ""
+
+msgid "вересня"
+msgstr ""
+
+msgid "годин"
+msgstr ""
+
+msgid "грудня"
+msgstr ""
+
+msgid "день"
+msgstr ""
+
+msgid "днів"
+msgstr ""
+
+msgid "до"
+msgstr ""
+
+msgid "жовтня"
+msgstr ""
+
+msgid "з"
+msgstr ""
+
+msgid "квітня"
+msgstr ""
+
+msgid "липня"
+msgstr ""
+
+msgid "листопада"
+msgstr ""
+
+msgid "лютого"
+msgstr ""
+
+msgid "помилка заповнення"
+msgstr ""
+
+msgid "серпня"
+msgstr ""
+
+msgid "січня"
+msgstr ""
+
+msgid "травня"
+msgstr ""
+
+msgid "хвилин"
+msgstr ""
+
+msgid "червня"
+msgstr ""
